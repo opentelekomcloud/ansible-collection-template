@@ -1,0 +1,7 @@
+# yamllint disable
+---
+- project:
+    merge-mode: squash-merge
+    templates:
+      - ansible-collection
+
