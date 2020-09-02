@@ -4,4 +4,7 @@
     merge-mode: squash-merge
     templates:
       - ansible-collection
+    vars:
+      ansible_collection_namespace: fake
+      ansible_collection_name: fake
 
