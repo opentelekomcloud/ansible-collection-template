@@ -1,5 +1,5 @@
-namespace: opentelekomcloud
-name: _CHANGEME_
+namespace: fake
+name: fake
 version: 0.0.1
 readme: README.md
 authors:
